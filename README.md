@@ -1,11 +1,13 @@
 # Fight_Delay_Prediction
 팀원 : 서혁준, 유영일
-
+<br>
 주제 : 레이블이 없는 데이터와 함께 항공편 지연 여부를 예측하는 AI 모델개발
-
+<br>
+<br>
 ## **데이터**
 https://dacon.io/competitions/official/236094/data
-
+<br>
+<br>
 ## **프로젝트 배경**
 
 준지도학습은 특정한 목적이나 레이블이 거의 없는 상태에서 
